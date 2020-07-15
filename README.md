@@ -11,6 +11,7 @@
 # Ask me about
 - Java
 - Kotlin
+- Google Cloud Platform
 - Docker
 
 <!--
