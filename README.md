@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+# I'm currently working on
+- [Amuza app](https://www.amuza.app)
+- [Photography website](https://www.peterfortuin.nl)
+
+# I'm currently learning
+- Kubernetes
+- Typescript
+
+# Ask me about
+- Java
+- Kotlin
+- Docker
+
 <!--
 **peterfortuin/peterfortuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
