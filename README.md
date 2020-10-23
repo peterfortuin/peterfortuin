@@ -7,6 +7,7 @@
 # I'm currently learning
 - Kubernetes
 - Typescript
+- Kotlin Coroutines and Flow
 
 # Ask me about
 - Java
