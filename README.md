@@ -8,6 +8,7 @@
 - Kubernetes
 - Typescript
 - Kotlin Coroutines and Flow
+- ESP programming and electronics
 
 # Ask me about
 - Java
