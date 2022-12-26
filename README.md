@@ -5,9 +5,8 @@
 - [Photography website](https://www.peterfortuin.nl)
 
 # I'm currently learning
+- Quarkus
 - Kubernetes
-- Typescript
-- Kotlin Coroutines and Flow
 - ESP programming and electronics
 
 # Ask me about
