@@ -5,15 +5,16 @@
 - [Photography website](https://www.peterfortuin.nl)
 
 # I'm currently learning
-- Quarkus
-- Kubernetes
 - ESP programming and electronics
 
 # Ask me about
 - Java
 - Kotlin
+- C#/.NET
 - Google Cloud Platform
+- Quarkus
 - Docker
+- Kubernetes
 
 <!--
 **peterfortuin/peterfortuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
