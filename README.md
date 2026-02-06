@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm currently working on
-- [n8n-nodes-bunq]([https://www.amuza.app](https://github.com/peterfortuin/n8n-nodes-bunq))
+- [n8n-nodes-bunq](https://github.com/peterfortuin/n8n-nodes-bunq)
 
 # I'm currently learning
 - N8N
