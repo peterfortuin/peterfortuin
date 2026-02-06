@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 # I'm currently working on
-- [Amuza app](https://www.amuza.app)
-- [Photography website](https://www.peterfortuin.nl)
+- [n8n-nodes-bunq]([https://www.amuza.app](https://github.com/peterfortuin/n8n-nodes-bunq))
 
 # I'm currently learning
-- ESP programming and electronics
+- N8N
+- AI
 
 # Ask me about
 - Java
